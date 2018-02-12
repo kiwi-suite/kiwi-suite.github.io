@@ -75,7 +75,7 @@ defaults:
       layout: "page"
       comments: false
       search: true
-      sidebar: home_sidebar
+      sidebar: basic_sidebar
       topnav: topnav
   -
     scope:
@@ -101,7 +101,7 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- doc_sidebar
+- basic_sidebar
 
 description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
 # the description is used in the feed.xml file

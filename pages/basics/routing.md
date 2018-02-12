@@ -1,7 +1,7 @@
 ---
 title: Routing and Piping
 summary: "kiwi provides the mechanisms 'piping' and 'routing'. You can <i>pipe</i> a PSR-15 middleware to your application or <i>route</i> an incoming request (on defined criteria) to a given action."
-sidebar: doc_sidebar
+sidebar: basic_sidebar
 permalink: basics_routing.html
 folder: basics
 ---
