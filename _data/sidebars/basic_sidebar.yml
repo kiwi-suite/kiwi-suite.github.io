@@ -5,9 +5,10 @@ entries:
   levels: one
   folders:
 
-  - title: Basics
+  - title: Bootstrapping
+    url: /basics_bootstrapping.html
     output: web
-    folderitems:
-    - title: Routing and Piping
-      url: /basics_routing.html
-      output: web
+  - title: Routing and Piping
+    url: /basics_routing.html
+    output: web
+

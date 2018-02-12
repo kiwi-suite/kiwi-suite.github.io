@@ -3,8 +3,8 @@
 topnav:
 - title: Topnav
   items:
-    - title: Documentation
-      url: /
+    - title: Basics
+      url: /basics_bootstrapping.html
     - title: GitHub
       external_url: https://github.com/kiwi-suite/kiwi
 
