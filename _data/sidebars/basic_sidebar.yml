@@ -5,7 +5,7 @@ entries:
   levels: one
   folders:
 
-  - title: Bootstrapping
+  - title: Bootstrapping and Config
     url: /basics_bootstrapping.html
     output: web
   - title: Routing and Piping
