@@ -1,0 +1,14 @@
+packages:
+  - kiwi-suite/servicemanager
+  - kiwi-suite/application
+  - kiwi-suite/application-http
+  - kiwi-suite/application-console
+  - kiwi-suite/config
+  - kiwi-suite/entity
+  - kiwi-suite/database
+  - kiwi-suite/common-types
+  - kiwi-suite/project-uri
+  - kiwi-suite/template
+  - kiwi-suite/framework
+  - kiwi-suite/admin
+  - kiwi-suite/admin-frontend
